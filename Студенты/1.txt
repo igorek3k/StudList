@@ -1,0 +1,5 @@
+ID: 1
+First Name: Игорь
+Last Name: Абушеев
+Middle Name: Андреевич
+Group: Б761-1

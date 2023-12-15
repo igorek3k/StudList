@@ -1,0 +1,23 @@
+<students>
+  <student>
+    <id>1</id>
+    <firstName>qq</firstName>
+    <lastName>ww</lastName>
+    <middleName>ee</middleName>
+    <group>rr</group>
+  </student>
+  <student>
+    <id>2</id>
+    <firstName>qqq</firstName>
+    <lastName>qqq</lastName>
+    <middleName>qqqq</middleName>
+    <group>qqqq</group>
+  </student>
+  <student>
+    <id>3</id>
+    <firstName>eee</firstName>
+    <lastName>eee</lastName>
+    <middleName>eeee</middleName>
+    <group>eee</group>
+  </student>
+</students>
